@@ -1,0 +1,3 @@
+ultralytics==8.0.112
+numpy==1.24.3
+datasets==2.12.0
